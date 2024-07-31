@@ -18,6 +18,6 @@ He desarrollado varios proyectos usando **Node.js**, **JavaScript**, **Express**
 Mi objetivo es seguir desarrollándome en el ámbito del **desarrollo backend**, formando parte de una empresa que me permita aplicar todo lo aprendido y seguir creciendo tanto personal como profesionalmente.
 
 ## Conéctate conmigo
-- 📧 Mandame un correo: [tu-email@example.com](mailto:tu-email@example.com)
-- 🔗 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- 📧 Mandame un correo: [agomezcarratala@gmail.com](mailto:agomezcarratala@gmail.com)
+- 🔗 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/alejandrogomezcarratala/)
 - ☕ Tomemos un café y hablemos de tecnología.
