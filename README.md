@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy Alex
 
-<!--
-**alex-gomez-code/alex-gomez-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Recién graduado en **Desarrollo de Aplicaciones Multiplataforma**, llevo más de un año trabajando en consultoría en **Bemycar** y dos años en startups de alto crecimiento como **GAMEE**. Me especializo en el desarrollo de **APIs Restful** y tengo experiencia en garantizar excelentes resultados dentro de plazos estrictos.
 
-Here are some ideas to get you started:
+### 🎓 Educación
+Poseo una formación sólida en programación y diseño, lo que me permite ofrecer una perspectiva única al desarrollo de software. He trabajado extensamente con **Java** y **Spring Boot**, creando soluciones robustas y eficientes que satisfacen las necesidades de los usuarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologías
+- **Java & Spring Boot**
+- **Node.js, JavaScript, Express, & TypeScript**
+- Estudio en **C#, Kotlin y Python**
+
+### 🚀 Proyectos personales
+He desarrollado varios proyectos usando **Node.js**, **JavaScript**, **Express**, y **TypeScript**, aplicando mis conocimientos para crear APIs que interactúan con otras tecnologías como **Unity**.
+
+### 🎯 Objetivos profesionales
+Mi objetivo es seguir desarrollándome en el ámbito del **desarrollo backend**, formando parte de una empresa que me permita aplicar todo lo aprendido y seguir creciendo tanto personal como profesionalmente.
+
+## Conéctate conmigo
+- 📧 Mandame un correo: [tu-email@example.com](mailto:tu-email@example.com)
+- 🔗 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- ☕ Tomemos un café y hablemos de tecnología.
